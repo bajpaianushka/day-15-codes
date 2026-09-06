@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-	int n = 5;
+	int n = 3;
 	scanf("%d", &n);
 
 	long long fact = 1;
