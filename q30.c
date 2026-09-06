@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-	int n = 1234;
+	int n = 100;
 	scanf("%d", &n);
 
 	int rev = 0;
